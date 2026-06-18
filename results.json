@@ -11,6 +11,18 @@
       "release_date": "Jun 9, 2026",
       "current_players": 116639,
       "scraped_at": "2026-06-18T01:47:55.581662"
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "url": "https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/?snr=1_7_7_7000_150_1",
+      "appid": "4704690",
+      "release": "Jun 9, 2026",
+      "current_price": "$5.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 9, 2026",
+      "current_players": 91437,
+      "scraped_at": "2026-06-18T23:31:02.106594"
     }
   ],
   "230410": [
@@ -25,6 +37,18 @@
       "release_date": null,
       "current_players": 88422,
       "scraped_at": "2026-06-18T01:47:56.938832"
+    },
+    {
+      "title": "Warframe",
+      "url": "https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_7000_150_1",
+      "appid": "230410",
+      "release": "Mar 25, 2013",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 70690,
+      "scraped_at": "2026-06-18T23:31:05.187821"
     }
   ],
   "730": [
@@ -39,6 +63,18 @@
       "release_date": "Aug 21, 2012",
       "current_players": 587176,
       "scraped_at": "2026-06-18T01:47:58.328719"
+    },
+    {
+      "title": "Counter-Strike 2",
+      "url": "https://store.steampowered.com/app/730/CounterStrike_2/?snr=1_7_7_7000_150_1",
+      "appid": "730",
+      "release": "Aug 21, 2012",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Aug 21, 2012",
+      "current_players": 722891,
+      "scraped_at": "2026-06-18T23:31:03.584797"
     }
   ],
   "381210": [
@@ -53,6 +89,18 @@
       "release_date": null,
       "current_players": 84387,
       "scraped_at": "2026-06-18T01:47:59.661515"
+    },
+    {
+      "title": "Dead by Daylight",
+      "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_7000_150_1",
+      "appid": "381210",
+      "release": "Jun 14, 2016",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 82403,
+      "scraped_at": "2026-06-18T23:31:06.530183"
     }
   ],
   "216150": [
@@ -67,6 +115,18 @@
       "release_date": "Aug 9, 2012",
       "current_players": 17407,
       "scraped_at": "2026-06-18T01:48:01.080562"
+    },
+    {
+      "title": "MapleStory",
+      "url": "https://store.steampowered.com/app/216150/MapleStory/?snr=1_7_7_7000_150_1",
+      "appid": "216150",
+      "release": "Aug 9, 2012",
+      "current_price": "Free to Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Aug 9, 2012",
+      "current_players": 14426,
+      "scraped_at": "2026-06-18T23:31:08.239137"
     }
   ],
   "2357570": [
@@ -81,6 +141,18 @@
       "release_date": "Aug 10, 2023",
       "current_players": 80010,
       "scraped_at": "2026-06-18T01:48:02.559024"
+    },
+    {
+      "title": "Overwatch®",
+      "url": "https://store.steampowered.com/app/2357570/Overwatch/?snr=1_7_7_7000_150_1",
+      "appid": "2357570",
+      "release": "Aug 10, 2023",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Aug 10, 2023",
+      "current_players": 70460,
+      "scraped_at": "2026-06-18T23:31:20.537881"
     }
   ],
   "578080": [
@@ -95,6 +167,18 @@
       "release_date": null,
       "current_players": 134606,
       "scraped_at": "2026-06-18T01:48:04.052317"
+    },
+    {
+      "title": "PUBG: BATTLEGROUNDS",
+      "url": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_7000_150_1",
+      "appid": "578080",
+      "release": "Dec 21, 2017",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 107017,
+      "scraped_at": "2026-06-18T23:31:21.922247"
     }
   ],
   "2767030": [
@@ -109,6 +193,18 @@
       "release_date": "Dec 5, 2024",
       "current_players": 102014,
       "scraped_at": "2026-06-18T01:48:05.494024"
+    },
+    {
+      "title": "Marvel Rivals",
+      "url": "https://store.steampowered.com/app/2767030/Marvel_Rivals/?snr=1_7_7_7000_150_1",
+      "appid": "2767030",
+      "release": "Dec 5, 2024",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Dec 5, 2024",
+      "current_players": 111086,
+      "scraped_at": "2026-06-18T23:31:00.536231"
     }
   ],
   "1085660": [
@@ -123,6 +219,18 @@
       "release_date": "Oct 1, 2019",
       "current_players": 115416,
       "scraped_at": "2026-06-18T01:48:06.878974"
+    },
+    {
+      "title": "Destiny 2",
+      "url": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_7000_150_1",
+      "appid": "1085660",
+      "release": "Oct 1, 2019",
+      "current_price": "$69.60",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Oct 1, 2019",
+      "current_players": 98659,
+      "scraped_at": "2026-06-18T23:31:12.694413"
     }
   ],
   "2483190": [
@@ -137,6 +245,18 @@
       "release_date": "May 18, 2026",
       "current_players": 52205,
       "scraped_at": "2026-06-18T01:48:08.354773"
+    },
+    {
+      "title": "Forza Horizon 6",
+      "url": "https://store.steampowered.com/app/2483190/Forza_Horizon_6/?snr=1_7_7_7000_150_1",
+      "appid": "2483190",
+      "release": "May 18, 2026",
+      "current_price": "$69.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "May 18, 2026",
+      "current_players": 56637,
+      "scraped_at": "2026-06-18T23:31:17.312361"
     }
   ],
   "1675200": [
@@ -151,6 +271,18 @@
       "release_date": null,
       "current_players": 0,
       "scraped_at": "2026-06-18T01:48:09.911677"
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200/Steam_Deck/?snr=1_7_7_7000_150_1",
+      "appid": "1675200",
+      "release": "Jan 17, 2025",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:31:11.162952"
     }
   ],
   "4165870": [
@@ -165,6 +297,18 @@
       "release_date": null,
       "current_players": 0,
       "scraped_at": "2026-06-18T01:48:11.339467"
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870/Steam_Controller/?snr=1_7_7_7000_150_1",
+      "appid": "4165870",
+      "release": "May 4, 2026",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:31:18.986747"
     }
   ],
   "2694490": [
@@ -179,6 +323,18 @@
       "release_date": "Dec 6, 2024",
       "current_players": 129418,
       "scraped_at": "2026-06-18T01:48:12.707461"
+    },
+    {
+      "title": "Path of Exile 2",
+      "url": "https://store.steampowered.com/app/2694490/Path_of_Exile_2/?snr=1_7_7_7000_150_1",
+      "appid": "2694490",
+      "release": "Dec 6, 2024",
+      "current_price": "$29.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Dec 6, 2024",
+      "current_players": 62142,
+      "scraped_at": "2026-06-18T23:31:23.383174"
     }
   ],
   "281990": [
@@ -193,6 +349,18 @@
       "release_date": "May 9, 2016",
       "current_players": 15989,
       "scraped_at": "2026-06-18T01:48:14.197965"
+    },
+    {
+      "title": "Stellaris",
+      "url": "https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_7000_150_1",
+      "appid": "281990",
+      "release": "May 9, 2016",
+      "current_price": "$14.99",
+      "original_price": "$49.99",
+      "discount_pct": "-70% off",
+      "release_date": "May 9, 2016",
+      "current_players": 16435,
+      "scraped_at": "2026-06-18T23:31:24.973574"
     }
   ],
   "3513350": [
@@ -207,6 +375,18 @@
       "release_date": "Apr 28, 2025",
       "current_players": 15535,
       "scraped_at": "2026-06-18T01:48:15.538474"
+    },
+    {
+      "title": "Wuthering Waves",
+      "url": "https://store.steampowered.com/app/3513350/Wuthering_Waves/?snr=1_7_7_7000_150_1",
+      "appid": "3513350",
+      "release": "Apr 28, 2025",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Apr 28, 2025",
+      "current_players": 15748,
+      "scraped_at": "2026-06-18T23:31:15.699476"
     }
   ],
   "2958130": [
@@ -221,6 +401,18 @@
       "release_date": "Oct 21, 2025",
       "current_players": 4736,
       "scraped_at": "2026-06-18T01:48:17.040022"
+    },
+    {
+      "title": "Jurassic World Evolution 3",
+      "url": "https://store.steampowered.com/app/2958130/Jurassic_World_Evolution_3/?snr=1_7_7_7000_150_1",
+      "appid": "2958130",
+      "release": "Oct 21, 2025",
+      "current_price": "$40.19",
+      "original_price": "$59.99",
+      "discount_pct": "-33% off",
+      "release_date": "Oct 21, 2025",
+      "current_players": 4626,
+      "scraped_at": "2026-06-18T23:31:36.919831"
     }
   ],
   "1172470": [
@@ -235,6 +427,18 @@
       "release_date": "Nov 4, 2020",
       "current_players": 57380,
       "scraped_at": "2026-06-18T01:48:18.589418"
+    },
+    {
+      "title": "Apex Legends™",
+      "url": "https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_7000_150_1",
+      "appid": "1172470",
+      "release": "Nov 4, 2020",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Nov 4, 2020",
+      "current_players": 51434,
+      "scraped_at": "2026-06-18T23:31:32.320551"
     }
   ],
   "1462040": [
@@ -249,6 +453,18 @@
       "release_date": "Jun 17, 2022",
       "current_players": 6132,
       "scraped_at": "2026-06-18T01:48:20.049835"
+    },
+    {
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/?snr=1_7_7_7000_150_1",
+      "appid": "1462040",
+      "release": "Jun 17, 2022",
+      "current_price": "$13.99",
+      "original_price": "$39.99",
+      "discount_pct": "-65% off",
+      "release_date": "Jun 17, 2022",
+      "current_players": 5671,
+      "scraped_at": "2026-06-18T23:31:26.414256"
     }
   ],
   "4162040": [
@@ -263,6 +479,18 @@
       "release_date": "Jun 16, 2026",
       "current_players": 10065,
       "scraped_at": "2026-06-18T01:48:21.480041"
+    },
+    {
+      "title": "Zenless Zone Zero",
+      "url": "https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/?snr=1_7_7_7000_150_3",
+      "appid": "4162040",
+      "release": "Jun 16, 2026",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 16, 2026",
+      "current_players": 9123,
+      "scraped_at": "2026-06-18T23:32:30.363835"
     }
   ],
   "3483510": [
@@ -277,6 +505,18 @@
       "release_date": "Jun 18, 2026",
       "current_players": null,
       "scraped_at": "2026-06-18T01:48:22.902510"
+    },
+    {
+      "title": "The Adventures of Elliot: The Millennium Tales",
+      "url": "https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/?snr=1_7_7_7000_150_1",
+      "appid": "3483510",
+      "release": "Jun 18, 2026",
+      "current_price": "$59.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 18, 2026",
+      "current_players": 3548,
+      "scraped_at": "2026-06-18T23:31:14.187520"
     }
   ],
   "3768760": [
@@ -291,6 +531,18 @@
       "release_date": null,
       "current_players": 7423,
       "scraped_at": "2026-06-18T01:48:24.373819"
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760/007_First_Light/?snr=1_7_7_7000_150_1",
+      "appid": "3768760",
+      "release": "May 26, 2026",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 7132,
+      "scraped_at": "2026-06-18T23:31:35.454063"
     }
   ],
   "3844970": [
@@ -305,6 +557,18 @@
       "release_date": "Jun 10, 2026",
       "current_players": 5232,
       "scraped_at": "2026-06-18T01:48:25.735743"
+    },
+    {
+      "title": "Burglin' Gnomes",
+      "url": "https://store.steampowered.com/app/3844970/Burglin_Gnomes/?snr=1_7_7_7000_150_2",
+      "appid": "3844970",
+      "release": "Jun 10, 2026",
+      "current_price": "$13.98",
+      "original_price": "$19.98",
+      "discount_pct": "-30% off",
+      "release_date": "Jun 10, 2026",
+      "current_players": 3478,
+      "scraped_at": "2026-06-18T23:31:48.058833"
     }
   ],
   "4791830": [
@@ -319,6 +583,18 @@
       "release_date": null,
       "current_players": 0,
       "scraped_at": "2026-06-18T01:48:27.156083"
+    },
+    {
+      "title": "Dead by Daylight: Jason",
+      "url": "https://store.steampowered.com/app/4791830/Dead_by_Daylight_Jason/?snr=1_7_7_7000_150_3",
+      "appid": "4791830",
+      "release": "Jun 16, 2026",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:32:18.951914"
     }
   ],
   "3472040": [
@@ -333,6 +609,18 @@
       "release_date": "Sep 4, 2025",
       "current_players": 19630,
       "scraped_at": "2026-06-18T01:48:28.590453"
+    },
+    {
+      "title": "NBA 2K26",
+      "url": "https://store.steampowered.com/app/3472040/NBA_2K26/?snr=1_7_7_7000_150_2",
+      "appid": "3472040",
+      "release": "Sep 4, 2025",
+      "current_price": "$15.99",
+      "original_price": "$79.99",
+      "discount_pct": "-80% off",
+      "release_date": "Sep 4, 2025",
+      "current_players": 17363,
+      "scraped_at": "2026-06-18T23:31:49.429507"
     }
   ],
   "1118520": [
@@ -347,6 +635,18 @@
       "release_date": "May 25, 2026",
       "current_players": 7356,
       "scraped_at": "2026-06-18T01:48:30.120520"
+    },
+    {
+      "title": "Paralives",
+      "url": "https://store.steampowered.com/app/1118520/Paralives/?snr=1_7_7_7000_150_2",
+      "appid": "1118520",
+      "release": "May 25, 2026",
+      "current_price": "$53.98",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "May 25, 2026",
+      "current_players": 7374,
+      "scraped_at": "2026-06-18T23:31:40.586234"
     }
   ],
   "1962700": [
@@ -361,6 +661,18 @@
       "release_date": "May 14, 2026",
       "current_players": 9076,
       "scraped_at": "2026-06-18T01:48:32.043643"
+    },
+    {
+      "title": "Subnautica 2",
+      "url": "https://store.steampowered.com/app/1962700/Subnautica_2/?snr=1_7_7_7000_150_2",
+      "appid": "1962700",
+      "release": "May 14, 2026",
+      "current_price": "$80.97",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "May 14, 2026",
+      "current_players": 7934,
+      "scraped_at": "2026-06-18T23:31:44.869770"
     }
   ],
   "359550": [
@@ -375,6 +687,18 @@
       "release_date": null,
       "current_players": 71568,
       "scraped_at": "2026-06-18T01:48:33.318136"
+    },
+    {
+      "title": "Tom Clancy's Rainbow Six Siege",
+      "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_7000_150_2",
+      "appid": "359550",
+      "release": "Dec 1, 2015",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 65582,
+      "scraped_at": "2026-06-18T23:31:50.711596"
     }
   ],
   "252490": [
@@ -389,6 +713,18 @@
       "release_date": "Feb 8, 2018",
       "current_players": 70854,
       "scraped_at": "2026-06-18T01:48:34.783186"
+    },
+    {
+      "title": "Rust",
+      "url": "https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_7000_150_1",
+      "appid": "252490",
+      "release": "Feb 8, 2018",
+      "current_price": "$19.99",
+      "original_price": "$39.99",
+      "discount_pct": "-50% off",
+      "release_date": "Feb 8, 2018",
+      "current_players": 106806,
+      "scraped_at": "2026-06-18T23:31:30.869076"
     }
   ],
   "3764200": [
@@ -403,6 +739,18 @@
       "release_date": null,
       "current_players": 5470,
       "scraped_at": "2026-06-18T01:48:36.064632"
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/?snr=1_7_7_7000_150_2",
+      "appid": "3764200",
+      "release": "Feb 26, 2026",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 5244,
+      "scraped_at": "2026-06-18T23:32:08.278794"
     }
   ],
   "552990": [
@@ -417,6 +765,18 @@
       "release_date": "Nov 15, 2017",
       "current_players": 4991,
       "scraped_at": "2026-06-18T01:48:37.543934"
+    },
+    {
+      "title": "World of Warships",
+      "url": "https://store.steampowered.com/app/552990/World_of_Warships/?snr=1_7_7_7000_150_2",
+      "appid": "552990",
+      "release": "Nov 15, 2017",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Nov 15, 2017",
+      "current_players": 4259,
+      "scraped_at": "2026-06-18T23:31:55.220679"
     }
   ],
   "1943950": [
@@ -431,6 +791,18 @@
       "release_date": "Oct 23, 2025",
       "current_players": 9367,
       "scraped_at": "2026-06-18T01:48:38.948448"
+    },
+    {
+      "title": "Escape the Backrooms",
+      "url": "https://store.steampowered.com/app/1943950/Escape_the_Backrooms/?snr=1_7_7_7000_150_2",
+      "appid": "1943950",
+      "release": "Oct 23, 2025",
+      "current_price": "$26.98",
+      "original_price": "$26.98",
+      "discount_pct": "-47% off",
+      "release_date": "Oct 23, 2025",
+      "current_players": 9279,
+      "scraped_at": "2026-06-18T23:31:56.694667"
     }
   ],
   "4131670": [
@@ -445,6 +817,18 @@
       "release_date": "Jun 16, 2026",
       "current_players": 0,
       "scraped_at": "2026-06-18T01:48:40.431542"
+    },
+    {
+      "title": "Jurassic World Evolution 3: Rebirth Expansion",
+      "url": "https://store.steampowered.com/app/4131670/Jurassic_World_Evolution_3_Rebirth_Expansion/?snr=1_7_7_7000_150_2",
+      "appid": "4131670",
+      "release": "Jun 16, 2026",
+      "current_price": "$67.37",
+      "original_price": "$89.73",
+      "discount_pct": "-25% off",
+      "release_date": "Jun 16, 2026",
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:32:11.088994"
     }
   ],
   "3405690": [
@@ -459,6 +843,18 @@
       "release_date": "Sep 25, 2025",
       "current_players": 84884,
       "scraped_at": "2026-06-18T01:48:41.853048"
+    },
+    {
+      "title": "EA SPORTS FC™ 26",
+      "url": "https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/?snr=1_7_7_7000_150_2",
+      "appid": "3405690",
+      "release": "Sep 25, 2025",
+      "current_price": "$13.99",
+      "original_price": "$69.99",
+      "discount_pct": "-80% off",
+      "release_date": "Sep 25, 2025",
+      "current_players": 91885,
+      "scraped_at": "2026-06-18T23:31:59.630492"
     }
   ],
   "3892270": [
@@ -473,6 +869,18 @@
       "release_date": "May 1, 2026",
       "current_players": 8103,
       "scraped_at": "2026-06-18T01:48:43.201423"
+    },
+    {
+      "title": "Gamble With Your Friends",
+      "url": "https://store.steampowered.com/app/3892270/Gamble_With_Your_Friends/?snr=1_7_7_7000_150_2",
+      "appid": "3892270",
+      "release": "May 1, 2026",
+      "current_price": "$29.32",
+      "original_price": "$1.99",
+      "discount_pct": "-20% off",
+      "release_date": "May 1, 2026",
+      "current_players": 5565,
+      "scraped_at": "2026-06-18T23:32:06.869449"
     }
   ],
   "553850": [
@@ -487,6 +895,18 @@
       "release_date": null,
       "current_players": 33387,
       "scraped_at": "2026-06-18T01:48:44.584885"
+    },
+    {
+      "title": "HELLDIVERS™ 2",
+      "url": "https://store.steampowered.com/app/553850/HELLDIVERS_2/?snr=1_7_7_7000_150_2",
+      "appid": "553850",
+      "release": "Feb 8, 2024",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 24840,
+      "scraped_at": "2026-06-18T23:32:05.489443"
     }
   ],
   "4760260": [
@@ -515,6 +935,18 @@
       "release_date": null,
       "current_players": 29617,
       "scraped_at": "2026-06-18T01:48:47.339687"
+    },
+    {
+      "title": "ELDEN RING",
+      "url": "https://store.steampowered.com/app/1245620/ELDEN_RING/?snr=1_7_7_7000_150_2",
+      "appid": "1245620",
+      "release": "Feb 24, 2022",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 28378,
+      "scraped_at": "2026-06-18T23:31:58.006993"
     }
   ],
   "4760270": [
@@ -543,6 +975,18 @@
       "release_date": "Feb 27, 2025",
       "current_players": 15964,
       "scraped_at": "2026-06-18T01:48:50.303203"
+    },
+    {
+      "title": "Monster Hunter Wilds",
+      "url": "https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/?snr=1_7_7_7000_150_3",
+      "appid": "2246340",
+      "release": "Feb 27, 2025",
+      "current_price": "$69.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Feb 27, 2025",
+      "current_players": 13672,
+      "scraped_at": "2026-06-18T23:32:38.878807"
     }
   ],
   "2050650": [
@@ -557,6 +1001,18 @@
       "release_date": "Mar 23, 2023",
       "current_players": 13138,
       "scraped_at": "2026-06-18T01:48:51.775977"
+    },
+    {
+      "title": "Resident Evil 4",
+      "url": "https://store.steampowered.com/app/2050650/Resident_Evil_4/?snr=1_7_7_7000_150_3",
+      "appid": "2050650",
+      "release": "Jan 24, 2019",
+      "current_price": "$20.19",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Mar 23, 2023",
+      "current_players": 11903,
+      "scraped_at": "2026-06-18T23:32:41.968974"
     }
   ],
   "2244210": [
@@ -571,6 +1027,18 @@
       "release_date": "Jul 9, 2026",
       "current_players": null,
       "scraped_at": "2026-06-18T01:48:53.214346"
+    },
+    {
+      "title": "Echoes of Aincrad",
+      "url": "https://store.steampowered.com/app/2244210/Echoes_of_Aincrad/?snr=1_7_7_7000_150_2",
+      "appid": "2244210",
+      "release": "Jul 9, 2026",
+      "current_price": "$69.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jul 9, 2026",
+      "current_players": null,
+      "scraped_at": "2026-06-18T23:32:01.153408"
     }
   ],
   "236390": [
@@ -585,6 +1053,18 @@
       "release_date": "Aug 15, 2013",
       "current_players": 29365,
       "scraped_at": "2026-06-18T01:48:54.722166"
+    },
+    {
+      "title": "War Thunder",
+      "url": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_7000_150_2",
+      "appid": "236390",
+      "release": "Aug 15, 2013",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Aug 15, 2013",
+      "current_players": 30067,
+      "scraped_at": "2026-06-18T23:32:04.086141"
     }
   ],
   "1364780": [
@@ -599,6 +1079,18 @@
       "release_date": "Jun 1, 2023",
       "current_players": 12235,
       "scraped_at": "2026-06-18T01:48:56.218369"
+    },
+    {
+      "title": "Street Fighter™ 6",
+      "url": "https://store.steampowered.com/app/1364780/Street_Fighter_6/?snr=1_7_7_7000_150_3",
+      "appid": "1364780",
+      "release": "Jun 1, 2023",
+      "current_price": "$39.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 1, 2023",
+      "current_players": 9729,
+      "scraped_at": "2026-06-18T23:32:35.945673"
     }
   ],
   "1151340": [
@@ -627,6 +1119,18 @@
       "release_date": "Dec 5, 2023",
       "current_players": 4617,
       "scraped_at": "2026-06-18T01:48:58.924763"
+    },
+    {
+      "title": "Disney Dreamlight Valley",
+      "url": "https://store.steampowered.com/app/1401590/Disney_Dreamlight_Valley/?snr=1_7_7_7000_150_3",
+      "appid": "1401590",
+      "release": "Dec 5, 2023",
+      "current_price": "$20.99",
+      "original_price": "$29.99",
+      "discount_pct": "-30% off",
+      "release_date": "Dec 5, 2023",
+      "current_players": 4244,
+      "scraped_at": "2026-06-18T23:32:46.612308"
     }
   ],
   "2868840": [
@@ -641,6 +1145,18 @@
       "release_date": "Mar 5, 2026",
       "current_players": 66431,
       "scraped_at": "2026-06-18T01:49:00.418748"
+    },
+    {
+      "title": "Slay the Spire 2",
+      "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/?snr=1_7_7_7000_150_3",
+      "appid": "2868840",
+      "release": "Mar 5, 2026",
+      "current_price": "$28.11",
+      "original_price": "$44.98",
+      "discount_pct": "-38% off",
+      "release_date": "Mar 5, 2026",
+      "current_players": 51555,
+      "scraped_at": "2026-06-18T23:32:28.987852"
     }
   ],
   "39210": [
@@ -655,6 +1171,18 @@
       "release_date": null,
       "current_players": 26206,
       "scraped_at": "2026-06-18T01:49:01.810053"
+    },
+    {
+      "title": "FINAL FANTASY XIV Online",
+      "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_7000_150_2",
+      "appid": "39210",
+      "release": "Feb 18, 2014",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 23626,
+      "scraped_at": "2026-06-18T23:32:12.515984"
     }
   ],
   "3240220": [
@@ -669,6 +1197,18 @@
       "release_date": null,
       "current_players": 28366,
       "scraped_at": "2026-06-18T01:49:03.120400"
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/?snr=1_7_7_7000_150_3",
+      "appid": "3240220",
+      "release": "Mar 4, 2025",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 35460,
+      "scraped_at": "2026-06-18T23:32:23.076329"
     }
   ],
   "394360": [
@@ -683,6 +1223,18 @@
       "release_date": "Jun 6, 2016",
       "current_players": 25134,
       "scraped_at": "2026-06-18T01:49:04.816992"
+    },
+    {
+      "title": "Hearts of Iron IV",
+      "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/?snr=1_7_7_7000_150_3",
+      "appid": "394360",
+      "release": "Jun 6, 2016",
+      "current_price": "$9.99",
+      "original_price": "$49.99",
+      "discount_pct": "-80% off",
+      "release_date": "Jun 6, 2016",
+      "current_players": 29089,
+      "scraped_at": "2026-06-18T23:32:45.028293"
     }
   ],
   "438100": [
@@ -711,6 +1263,18 @@
       "release_date": null,
       "current_players": 9165,
       "scraped_at": "2026-06-18T01:49:08.070811"
+    },
+    {
+      "title": "The Elder Scrolls® Online",
+      "url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_7000_150_1",
+      "appid": "306130",
+      "release": "May 22, 2017",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 10315,
+      "scraped_at": "2026-06-18T23:31:27.815915"
     }
   ],
   "1868140": [
@@ -725,6 +1289,18 @@
       "release_date": "Jun 28, 2023",
       "current_players": 8483,
       "scraped_at": "2026-06-18T01:49:09.533907"
+    },
+    {
+      "title": "DAVE THE DIVER",
+      "url": "https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_7_7_7000_150_1",
+      "appid": "1868140",
+      "release": "Jun 28, 2023",
+      "current_price": "$9.99",
+      "original_price": "$19.99",
+      "discount_pct": "-50% off",
+      "release_date": "Jun 28, 2023",
+      "current_players": 12128,
+      "scraped_at": "2026-06-18T23:31:29.281003"
     }
   ],
   "2141910": [
@@ -739,6 +1315,18 @@
       "release_date": "May 23, 2023",
       "current_players": 8343,
       "scraped_at": "2026-06-18T01:49:10.936519"
+    },
+    {
+      "title": "Magic: The Gathering Arena",
+      "url": "https://store.steampowered.com/app/2141910/Magic_The_Gathering_Arena/?snr=1_7_7_7000_150_3",
+      "appid": "2141910",
+      "release": "May 23, 2023",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "May 23, 2023",
+      "current_players": 8309,
+      "scraped_at": "2026-06-18T23:32:25.976481"
     }
   ],
   "3321460": [
@@ -753,6 +1341,18 @@
       "release_date": "Mar 19, 2026",
       "current_players": 16637,
       "scraped_at": "2026-06-18T01:49:12.377157"
+    },
+    {
+      "title": "Crimson Desert",
+      "url": "https://store.steampowered.com/app/3321460/Crimson_Desert/?snr=1_7_7_7000_150_3",
+      "appid": "3321460",
+      "release": "Mar 19, 2026",
+      "current_price": "$69.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Mar 19, 2026",
+      "current_players": 16392,
+      "scraped_at": "2026-06-18T23:32:21.778146"
     }
   ],
   "2806050": [
@@ -767,6 +1367,18 @@
       "release_date": "Jul 28, 2026",
       "current_players": null,
       "scraped_at": "2026-06-18T01:49:13.984540"
+    },
+    {
+      "title": "Halo: Campaign Evolved",
+      "url": "https://store.steampowered.com/app/2806050/Halo_Campaign_Evolved/?snr=1_7_7_7000_150_3",
+      "appid": "2806050",
+      "release": "Jul 28, 2026",
+      "current_price": "$49.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jul 28, 2026",
+      "current_players": null,
+      "scraped_at": "2026-06-18T23:32:17.434769"
     }
   ],
   "1086940": [
@@ -781,6 +1393,18 @@
       "release_date": null,
       "current_players": 43108,
       "scraped_at": "2026-06-18T01:49:15.282707"
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/?snr=1_7_7_7000_150_3",
+      "appid": "1086940",
+      "release": "Aug 3, 2023",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 37702,
+      "scraped_at": "2026-06-18T23:32:24.419397"
     }
   ],
   "534380": [
@@ -795,6 +1419,18 @@
       "release_date": null,
       "current_players": 4316,
       "scraped_at": "2026-06-18T01:49:16.607561"
+    },
+    {
+      "title": "Dying Light 2 Stay Human: Reloaded Edition",
+      "url": "https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human_Reloaded_Edition/?snr=1_7_7_7000_150_4",
+      "appid": "534380",
+      "release": "Feb 3, 2022",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 4773,
+      "scraped_at": "2026-06-18T23:33:18.314801"
     }
   ],
   "518790": [
@@ -809,6 +1445,18 @@
       "release_date": "Feb 16, 2017",
       "current_players": 3855,
       "scraped_at": "2026-06-18T01:49:18.102189"
+    },
+    {
+      "title": "theHunter: Call of the Wild™",
+      "url": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_7000_150_2",
+      "appid": "518790",
+      "release": "Feb 16, 2017",
+      "current_price": "$1.99",
+      "original_price": "$19.99",
+      "discount_pct": "-90% off",
+      "release_date": "Feb 16, 2017",
+      "current_players": 4662,
+      "scraped_at": "2026-06-18T23:31:46.645451"
     }
   ],
   "4735390": [
@@ -851,6 +1499,18 @@
       "release_date": null,
       "current_players": 3624,
       "scraped_at": "2026-06-18T01:49:22.365412"
+    },
+    {
+      "title": "Age of Wonders 4",
+      "url": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4/?snr=1_7_7_7000_150_3",
+      "appid": "1669000",
+      "release": "May 2, 2023",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 3661,
+      "scraped_at": "2026-06-18T23:32:49.538116"
     }
   ],
   "2909400": [
@@ -865,6 +1525,18 @@
       "release_date": null,
       "current_players": 3910,
       "scraped_at": "2026-06-18T01:49:23.655559"
+    },
+    {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/?snr=1_7_7_7000_150_2",
+      "appid": "2909400",
+      "release": "Jan 23, 2025",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 3633,
+      "scraped_at": "2026-06-18T23:32:13.896541"
     }
   ],
   "2215200": [
@@ -879,6 +1551,18 @@
       "release_date": "May 22, 2026",
       "current_players": 3148,
       "scraped_at": "2026-06-18T01:49:25.209871"
+    },
+    {
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "url": "https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/?snr=1_7_7_7000_150_3",
+      "appid": "2215200",
+      "release": "May 22, 2026",
+      "current_price": "$69.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "May 22, 2026",
+      "current_players": 2801,
+      "scraped_at": "2026-06-18T23:32:27.450720"
     }
   ],
   "1599340": [
@@ -893,6 +1577,18 @@
       "release_date": null,
       "current_players": 8086,
       "scraped_at": "2026-06-18T01:49:26.541810"
+    },
+    {
+      "title": "Lost Ark",
+      "url": "https://store.steampowered.com/app/1599340/Lost_Ark/?snr=1_7_7_7000_150_4",
+      "appid": "1599340",
+      "release": "Feb 11, 2022",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 7127,
+      "scraped_at": "2026-06-18T23:33:19.672368"
     }
   ],
   "266410": [
@@ -935,6 +1631,18 @@
       "release_date": "Jun 10, 2026",
       "current_players": 1782,
       "scraped_at": "2026-06-18T01:49:30.898983"
+    },
+    {
+      "title": "Fears to Fathom® - Scratch Creek",
+      "url": "https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/?snr=1_7_7_7000_150_4",
+      "appid": "4121170",
+      "release": "Jun 10, 2026",
+      "current_price": "$34.15",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 10, 2026",
+      "current_players": 1518,
+      "scraped_at": "2026-06-18T23:33:07.700728"
     }
   ],
   "1903340": [
@@ -963,6 +1671,18 @@
       "release_date": "Oct 30, 2025",
       "current_players": 41208,
       "scraped_at": "2026-06-18T01:49:33.753099"
+    },
+    {
+      "title": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500/ARC_Raiders/?snr=1_7_7_7000_150_4",
+      "appid": "1808500",
+      "release": "Oct 30, 2025",
+      "current_price": "$39.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Oct 30, 2025",
+      "current_players": 40242,
+      "scraped_at": "2026-06-18T23:33:04.675490"
     }
   ],
   "3186540": [
@@ -977,6 +1697,18 @@
       "release_date": "Dec 2, 2025",
       "current_players": 0,
       "scraped_at": "2026-06-18T01:49:35.058967"
+    },
+    {
+      "title": "Destiny 2: Renegades",
+      "url": "https://store.steampowered.com/app/3186540/Destiny_2_Renegades/?snr=1_7_7_7000_150_4",
+      "appid": "3186540",
+      "release": "Dec 2, 2025",
+      "current_price": "$69.60",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Dec 2, 2025",
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:33:09.142807"
     }
   ],
   "3072120": [
@@ -991,6 +1723,18 @@
       "release_date": "Jun 17, 2026",
       "current_players": 605,
       "scraped_at": "2026-06-18T01:49:36.498509"
+    },
+    {
+      "title": "Backrooms Lost Runners",
+      "url": "https://store.steampowered.com/app/3072120/Backrooms_Lost_Runners/?snr=1_7_7_7000_150_4",
+      "appid": "3072120",
+      "release": "Jun 17, 2026",
+      "current_price": "$12.59",
+      "original_price": "$13.99",
+      "discount_pct": "-10% off",
+      "release_date": "Jun 17, 2026",
+      "current_players": 355,
+      "scraped_at": "2026-06-18T23:33:28.415793"
     }
   ],
   "4241420": [
@@ -1005,6 +1749,18 @@
       "release_date": "Jun 15, 2026",
       "current_players": 0,
       "scraped_at": "2026-06-18T01:49:37.916012"
+    },
+    {
+      "title": "Stellaris: Nomads",
+      "url": "https://store.steampowered.com/app/4241420/Stellaris_Nomads/?snr=1_7_7_7000_150_4",
+      "appid": "4241420",
+      "release": "Apr 29, 2026",
+      "current_price": "$24.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 15, 2026",
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:33:06.153302"
     }
   ],
   "3564740": [
@@ -1019,6 +1775,18 @@
       "release_date": "Nov 14, 2025",
       "current_players": 9430,
       "scraped_at": "2026-06-18T01:49:39.279240"
+    },
+    {
+      "title": "Where Winds Meet",
+      "url": "https://store.steampowered.com/app/3564740/Where_Winds_Meet/?snr=1_7_7_7000_150_3",
+      "appid": "3564740",
+      "release": "Nov 14, 2025",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Nov 14, 2025",
+      "current_players": 9489,
+      "scraped_at": "2026-06-18T23:32:50.913310"
     }
   ],
   "2807960": [
@@ -1033,6 +1801,18 @@
       "release_date": null,
       "current_players": 35035,
       "scraped_at": "2026-06-18T01:49:40.713146"
+    },
+    {
+      "title": "Battlefield™ 6",
+      "url": "https://store.steampowered.com/app/2807960/Battlefield_6/?snr=1_7_7_7000_150_2",
+      "appid": "2807960",
+      "release": "Oct 10, 2025",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 31446,
+      "scraped_at": "2026-06-18T23:31:53.610374"
     }
   ],
   "2622380": [
@@ -1075,6 +1855,18 @@
       "release_date": "Jun 9, 2026",
       "current_players": 3042,
       "scraped_at": "2026-06-18T01:49:45.192669"
+    },
+    {
+      "title": "Voidling Bound",
+      "url": "https://store.steampowered.com/app/2004680/Voidling_Bound/?snr=1_7_7_7000_150_3",
+      "appid": "2004680",
+      "release": "Jun 9, 2026",
+      "current_price": "$22.49",
+      "original_price": "$24.99",
+      "discount_pct": "-10% off",
+      "release_date": "Jun 9, 2026",
+      "current_players": 2818,
+      "scraped_at": "2026-06-18T23:32:48.152367"
     }
   ],
   "3932890": [
@@ -1089,6 +1881,18 @@
       "release_date": "Nov 15, 2025",
       "current_players": 10834,
       "scraped_at": "2026-06-18T01:49:46.654177"
+    },
+    {
+      "title": "Escape from Tarkov",
+      "url": "https://store.steampowered.com/app/3932890/Escape_from_Tarkov/?snr=1_7_7_7000_150_3",
+      "appid": "3932890",
+      "release": "Nov 15, 2025",
+      "current_price": "$81.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Nov 15, 2025",
+      "current_players": 10662,
+      "scraped_at": "2026-06-18T23:32:40.436691"
     }
   ],
   "949230": [
@@ -1103,6 +1907,18 @@
       "release_date": "Oct 24, 2023",
       "current_players": 7113,
       "scraped_at": "2026-06-18T01:49:48.008131"
+    },
+    {
+      "title": "Cities: Skylines II",
+      "url": "https://store.steampowered.com/app/949230/Cities_Skylines_II/?snr=1_7_7_7000_150_4",
+      "appid": "949230",
+      "release": "Oct 24, 2023",
+      "current_price": "$34.99",
+      "original_price": "$49.99",
+      "discount_pct": "-30% off",
+      "release_date": "Oct 24, 2023",
+      "current_players": 7202,
+      "scraped_at": "2026-06-18T23:33:01.601239"
     }
   ],
   "2679100": [
@@ -1145,6 +1961,18 @@
       "release_date": "Jun 5, 2026",
       "current_players": 8631,
       "scraped_at": "2026-06-18T01:49:52.121030"
+    },
+    {
+      "title": "Gothic 1 Remake",
+      "url": "https://store.steampowered.com/app/1297900/Gothic_1_Remake/?snr=1_7_7_7000_150_4",
+      "appid": "1297900",
+      "release": "Jun 5, 2026",
+      "current_price": "$49.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 5, 2026",
+      "current_players": 16075,
+      "scraped_at": "2026-06-18T23:33:00.130877"
     }
   ],
   "1466060": [
@@ -1159,6 +1987,18 @@
       "release_date": "May 23, 2025",
       "current_players": 1999,
       "scraped_at": "2026-06-18T01:49:53.605126"
+    },
+    {
+      "title": "Tainted Grail: The Fall of Avalon",
+      "url": "https://store.steampowered.com/app/1466060/Tainted_Grail_The_Fall_of_Avalon/?snr=1_7_7_7000_150_4",
+      "appid": "1466060",
+      "release": "May 23, 2025",
+      "current_price": "$26.99",
+      "original_price": "$44.99",
+      "discount_pct": "-40% off",
+      "release_date": "May 23, 2025",
+      "current_players": 2134,
+      "scraped_at": "2026-06-18T23:32:57.271635"
     }
   ],
   "3241660": [
@@ -1173,6 +2013,18 @@
       "release_date": "Feb 26, 2025",
       "current_players": 30794,
       "scraped_at": "2026-06-18T01:49:54.958919"
+    },
+    {
+      "title": "R.E.P.O.",
+      "url": "https://store.steampowered.com/app/3241660/REPO/?snr=1_7_7_7000_150_4",
+      "appid": "3241660",
+      "release": "Feb 26, 2025",
+      "current_price": "$6.99",
+      "original_price": "$9.99",
+      "discount_pct": "-30% off",
+      "release_date": "Feb 26, 2025",
+      "current_players": 27890,
+      "scraped_at": "2026-06-18T23:33:26.945247"
     }
   ],
   "2373990": [
@@ -1187,6 +2039,18 @@
       "release_date": "Nov 24, 2025",
       "current_players": 220,
       "scraped_at": "2026-06-18T01:49:56.293708"
+    },
+    {
+      "title": "Solo Leveling: ARISE OVERDRIVE",
+      "url": "https://store.steampowered.com/app/2373990/Solo_Leveling_ARISE_OVERDRIVE/?snr=1_7_7_7000_150_4",
+      "appid": "2373990",
+      "release": "Nov 24, 2025",
+      "current_price": "$23.99",
+      "original_price": "$39.99",
+      "discount_pct": "-40% off",
+      "release_date": "Nov 24, 2025",
+      "current_players": 1112,
+      "scraped_at": "2026-06-18T23:33:10.647720"
     }
   ],
   "3164500": [
@@ -1215,6 +2079,18 @@
       "release_date": "Mar 6, 2025",
       "current_players": 2050,
       "scraped_at": "2026-06-18T01:49:59.027455"
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120/Split_Fiction/?snr=1_7_7_7000_150_4",
+      "appid": "2001120",
+      "release": "Mar 6, 2025",
+      "current_price": "$32.49",
+      "original_price": "$49.99",
+      "discount_pct": "-35% off",
+      "release_date": "Mar 6, 2025",
+      "current_players": 1906,
+      "scraped_at": "2026-06-18T23:33:22.539336"
     }
   ],
   "1222670": [
@@ -1229,6 +2105,18 @@
       "release_date": "Sep 2, 2014",
       "current_players": 21336,
       "scraped_at": "2026-06-18T01:50:00.536250"
+    },
+    {
+      "title": "The Sims™ 4",
+      "url": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_2",
+      "appid": "1222670",
+      "release": "Jun 18, 2020",
+      "current_price": "$44.61",
+      "original_price": "$74.37",
+      "discount_pct": "-40% off",
+      "release_date": "Sep 2, 2014",
+      "current_players": 22621,
+      "scraped_at": "2026-06-18T23:31:38.977387"
     }
   ],
   "1286830": [
@@ -1257,6 +2145,18 @@
       "release_date": null,
       "current_players": 19571,
       "scraped_at": "2026-06-18T01:50:03.260753"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_7000_150_1",
+      "appid": "1091500",
+      "release": "Dec 9, 2020",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 20835,
+      "scraped_at": "2026-06-18T23:31:09.638066"
     }
   ],
   "1476970": [
@@ -1299,6 +2199,18 @@
       "release_date": "Jun 4, 2025",
       "current_players": 7950,
       "scraped_at": "2026-06-18T01:50:07.615470"
+    },
+    {
+      "title": "DELTARUNE",
+      "url": "https://store.steampowered.com/app/1671210/DELTARUNE/?snr=1_7_7_7000_150_4",
+      "appid": "1671210",
+      "release": "Jun 4, 2025",
+      "current_price": "$35.98",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jun 4, 2025",
+      "current_players": 8404,
+      "scraped_at": "2026-06-18T23:33:15.233168"
     }
   ],
   "2739990": [
@@ -1341,6 +2253,18 @@
       "release_date": "Aug 11, 2022",
       "current_players": 3083,
       "scraped_at": "2026-06-18T01:50:11.747337"
+    },
+    {
+      "title": "Cult of the Lamb",
+      "url": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/?snr=1_7_7_7000_150_4",
+      "appid": "1313140",
+      "release": "Aug 11, 2022",
+      "current_price": "$12.49",
+      "original_price": "$24.99",
+      "discount_pct": "-50% off",
+      "release_date": "Aug 11, 2022",
+      "current_players": 3085,
+      "scraped_at": "2026-06-18T23:33:13.708469"
     }
   ],
   "2344520": [
@@ -1397,6 +2321,326 @@
       "release_date": "Aug 23, 2022",
       "current_players": 6087,
       "scraped_at": "2026-06-18T01:50:17.528538"
+    },
+    {
+      "title": "Guild Wars 2®",
+      "url": "https://store.steampowered.com/app/1284210/Guild_Wars_2/?snr=1_7_7_7000_150_4",
+      "appid": "1284210",
+      "release": "Aug 23, 2022",
+      "current_price": "$99.97",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Aug 23, 2022",
+      "current_players": 6070,
+      "scraped_at": "2026-06-18T23:33:25.557936"
+    }
+  ],
+  "2138330": [
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/?snr=1_7_7_7000_150_1",
+      "appid": "2138330",
+      "release": "Sep 25, 2023",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:31:33.674522"
+    }
+  ],
+  "2486820": [
+    {
+      "title": "Sonic Racing: CrossWorlds",
+      "url": "https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/?snr=1_7_7_7000_150_2",
+      "appid": "2486820",
+      "release": "Sep 25, 2025",
+      "current_price": "$34.99",
+      "original_price": "$69.99",
+      "discount_pct": "-50% off",
+      "release_date": "Sep 25, 2025",
+      "current_players": 592,
+      "scraped_at": "2026-06-18T23:31:42.028275"
+    }
+  ],
+  "4394810": [
+    {
+      "title": "DAVE THE DIVER - In the Jungle Content Pack",
+      "url": "https://store.steampowered.com/app/4394810/DAVE_THE_DIVER__In_the_Jungle_Content_Pack/?snr=1_7_7_7000_150_2",
+      "appid": "4394810",
+      "release": "Jun 18, 2026",
+      "current_price": "$17.98",
+      "original_price": "$26.98",
+      "discount_pct": "-33% off",
+      "release_date": "Jun 18, 2026",
+      "current_players": 0,
+      "scraped_at": "2026-06-18T23:31:43.464508"
+    }
+  ],
+  "582660": [
+    {
+      "title": "Black Desert",
+      "url": "https://store.steampowered.com/app/582660/Black_Desert/?snr=1_7_7_7000_150_2",
+      "appid": "582660",
+      "release": "May 24, 2017",
+      "current_price": "$0.99",
+      "original_price": "$9.99",
+      "discount_pct": "-90% off",
+      "release_date": "May 24, 2017",
+      "current_players": 16263,
+      "scraped_at": "2026-06-18T23:31:52.254196"
+    }
+  ],
+  "3404260": [
+    {
+      "title": "Dead as Disco",
+      "url": "https://store.steampowered.com/app/3404260/Dead_as_Disco/?snr=1_7_7_7000_150_2",
+      "appid": "3404260",
+      "release": "May 5, 2026",
+      "current_price": "$19.99",
+      "original_price": "$24.99",
+      "discount_pct": "-20% off",
+      "release_date": "May 5, 2026",
+      "current_players": 1524,
+      "scraped_at": "2026-06-18T23:32:02.586437"
+    }
+  ],
+  "2074920": [
+    {
+      "title": "The First Descendant",
+      "url": "https://store.steampowered.com/app/2074920/The_First_Descendant/?snr=1_7_7_7000_150_2",
+      "appid": "2074920",
+      "release": "Jun 30, 2024",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 4503,
+      "scraped_at": "2026-06-18T23:32:09.641632"
+    }
+  ],
+  "801800": [
+    {
+      "title": "Atomfall",
+      "url": "https://store.steampowered.com/app/801800/Atomfall/?snr=1_7_7_7000_150_3",
+      "appid": "801800",
+      "release": "Mar 27, 2025",
+      "current_price": "$19.99",
+      "original_price": "$49.99",
+      "discount_pct": "-60% off",
+      "release_date": "Mar 27, 2025",
+      "current_players": 211,
+      "scraped_at": "2026-06-18T23:32:15.977755"
+    }
+  ],
+  "1693980": [
+    {
+      "title": "Dead Space",
+      "url": "https://store.steampowered.com/app/1693980/Dead_Space/?snr=1_7_7_7000_150_3",
+      "appid": "1693980",
+      "release": "Jan 27, 2023",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 658,
+      "scraped_at": "2026-06-18T23:32:20.333908"
+    }
+  ],
+  "3156770": [
+    {
+      "title": "Witchfire",
+      "url": "https://store.steampowered.com/app/3156770/Witchfire/?snr=1_7_7_7000_150_3",
+      "appid": "3156770",
+      "release": "Sep 23, 2024",
+      "current_price": "$31.99",
+      "original_price": "$39.99",
+      "discount_pct": "-20% off",
+      "release_date": "Sep 23, 2024",
+      "current_players": 1319,
+      "scraped_at": "2026-06-18T23:32:31.868473"
+    }
+  ],
+  "1874880": [
+    {
+      "title": "Arma Reforger",
+      "url": "https://store.steampowered.com/app/1874880/Arma_Reforger/?snr=1_7_7_7000_150_3",
+      "appid": "1874880",
+      "release": "Nov 16, 2023",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 11512,
+      "scraped_at": "2026-06-18T23:32:33.251177"
+    }
+  ],
+  "221100": [
+    {
+      "title": "DayZ",
+      "url": "https://store.steampowered.com/app/221100/DayZ/?snr=1_7_7_7000_150_3",
+      "appid": "221100",
+      "release": "Dec 13, 2018",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 32709,
+      "scraped_at": "2026-06-18T23:32:34.551543"
+    }
+  ],
+  "292030": [
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_7000_150_3",
+      "appid": "292030",
+      "release": "May 18, 2015",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 9639,
+      "scraped_at": "2026-06-18T23:32:37.253959"
+    }
+  ],
+  "2513280": [
+    {
+      "title": "SONIC X SHADOW GENERATIONS",
+      "url": "https://store.steampowered.com/app/2513280/SONIC_X_SHADOW_GENERATIONS/?snr=1_7_7_7000_150_3",
+      "appid": "2513280",
+      "release": "Oct 24, 2024",
+      "current_price": "$14.99",
+      "original_price": "$49.99",
+      "discount_pct": "-70% off",
+      "release_date": "Oct 24, 2024",
+      "current_players": 225,
+      "scraped_at": "2026-06-18T23:32:43.422147"
+    }
+  ],
+  "3751950": [
+    {
+      "title": "Assassin's Creed Black Flag Resynced",
+      "url": "https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/?snr=1_7_7_7000_150_4",
+      "appid": "3751950",
+      "release": "Jul 9, 2026",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": null,
+      "scraped_at": "2026-06-18T23:32:52.914837"
+    }
+  ],
+  "3986670": [
+    {
+      "title": "YOU ARE THE MONSTER",
+      "url": "https://store.steampowered.com/app/3986670/YOU_ARE_THE_MONSTER/?snr=1_7_7_7000_150_4",
+      "appid": "3986670",
+      "release": "Jun 18, 2026",
+      "current_price": "$8.49",
+      "original_price": "$9.99",
+      "discount_pct": "-15% off",
+      "release_date": "Jun 18, 2026",
+      "current_players": 695,
+      "scraped_at": "2026-06-18T23:32:54.324005"
+    }
+  ],
+  "2139460": [
+    {
+      "title": "Once Human",
+      "url": "https://store.steampowered.com/app/2139460/Once_Human/?snr=1_7_7_7000_150_4",
+      "appid": "2139460",
+      "release": "Jul 9, 2024",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jul 9, 2024",
+      "current_players": 9054,
+      "scraped_at": "2026-06-18T23:32:55.824730"
+    }
+  ],
+  "2073850": [
+    {
+      "title": "THE FINALS",
+      "url": "https://store.steampowered.com/app/2073850/THE_FINALS/?snr=1_7_7_7000_150_4",
+      "appid": "2073850",
+      "release": "Dec 7, 2023",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Dec 7, 2023",
+      "current_players": 11953,
+      "scraped_at": "2026-06-18T23:32:58.719745"
+    }
+  ],
+  "2515020": [
+    {
+      "title": "FINAL FANTASY XVI",
+      "url": "https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/?snr=1_7_7_7000_150_4",
+      "appid": "2515020",
+      "release": "Sep 17, 2024",
+      "current_price": "$19.99",
+      "original_price": "$49.99",
+      "discount_pct": "-60% off",
+      "release_date": "Sep 17, 2024",
+      "current_players": 1347,
+      "scraped_at": "2026-06-18T23:33:03.132922"
+    }
+  ],
+  "4032350": [
+    {
+      "title": "EA SPORTS™ College Football 27",
+      "url": "https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/?snr=1_7_7_7000_150_4",
+      "appid": "4032350",
+      "release": "Jul 9, 2026",
+      "current_price": "$149.98",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jul 9, 2026",
+      "current_players": null,
+      "scraped_at": "2026-06-18T23:33:12.182230"
+    }
+  ],
+  "4025700": [
+    {
+      "title": "Heartopia",
+      "url": "https://store.steampowered.com/app/4025700/Heartopia/?snr=1_7_7_7000_150_4",
+      "appid": "4025700",
+      "release": "Jan 16, 2026",
+      "current_price": "Free To Play",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Jan 16, 2026",
+      "current_players": 7425,
+      "scraped_at": "2026-06-18T23:33:16.879882"
+    }
+  ],
+  "1774580": [
+    {
+      "title": "STAR WARS Jedi: Survivor™",
+      "url": "https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/?snr=1_7_7_7000_150_4",
+      "appid": "1774580",
+      "release": "Apr 27, 2023",
+      "current_price": null,
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": null,
+      "current_players": 1556,
+      "scraped_at": "2026-06-18T23:33:20.998650"
+    }
+  ],
+  "2141730": [
+    {
+      "title": "Backrooms: Escape Together",
+      "url": "https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/?snr=1_7_7_7000_150_4",
+      "appid": "2141730",
+      "release": "Oct 18, 2022",
+      "current_price": "$9.99",
+      "original_price": null,
+      "discount_pct": null,
+      "release_date": "Oct 18, 2022",
+      "current_players": 3633,
+      "scraped_at": "2026-06-18T23:33:23.920035"
     }
   ]
 }
